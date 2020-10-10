@@ -115,12 +115,12 @@ aside h1
     font-size: 24px;
 }
 
-.liens
+a
 {
     color: ; /*définition de la couleur des liens*/
 }
 
-.liens:hover
+a:hover
 {
   color: ; /*définition de la couleur des liens lors d'un survol de la souris*/
 }
